@@ -5,7 +5,7 @@ def summation():
     while True:
         x=0
         i = 0
-        iteration = int(input("Enter How many Numbers you want to add:"))
+        iteration = int(input("Enter how many Numbers you want to add:"))
         if iteration < 0:
             print("Please Enter A Positive Number")
             continue
